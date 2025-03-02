@@ -4,4 +4,4 @@ import CounterApp from './counterApp';
 
 const divElemento = document.getElementById('root');
 const root = ReactDOM.createRoot(divElemento);
-root.render( <CounterApp value={25}/>);
+root.render( <CounterApp value={10}/>);
